@@ -1,0 +1,17 @@
+// thead {  
+//     position: relative;
+    
+// }
+
+th {
+    background-color: black;
+    color: white;
+    position: sticky;
+    z-index: 2;
+    top: 0;
+    border-top: none !important;
+}
+
+.sortable-header:hover {
+  background-color: #018d8b;
+}
